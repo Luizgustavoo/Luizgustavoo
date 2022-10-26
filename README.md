@@ -1,8 +1,8 @@
 <h1 align = "center"> Olá 👋, sou Luiz Gustavo da Silva </h1>
 <h3 align = "center"> Apenas um jovem entusiasta deste mundo da programação, buscando aprender algo novo todo dia! </h3>
 
-<p align = "left"> <a href="https://twitter.com/tiilibra" target="blank"> <img src="https://img.shields.io/twitter/follow/tiilibra?logo=twitter&style=for-the-badge "alt="tiilibra"/> </a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizgustavooo&label=Profile%20views&color=0e75b6&style=flat" alt = "luizgustavooo" /> </p>
+[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+[![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/WakaTime)
 
 <h3 align="left"> Conecte-se a mim: </h3>
 <p align="left">
