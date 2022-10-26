@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá 👋, sou Luiz Gustavo da Silva </h1>
 <h3 align = "center"> Apenas um jovem entusiasta deste mundo da programação, buscando aprender algo novo todo dia! </h3>
 
-[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/badge/user/dd525832-d2cf-4827-bc9e-3beaa92bc0dd.svg))](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+[![wakatime](https://wakatime.com/badge/user/dd525832-d2cf-4827-bc9e-3beaa92bc0dd.svg)](https://wakatime.com/@dd525832-d2cf-4827-bc9e-3beaa92bc0dd)
 [![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/WakaTime)
 
 <h3 align="left"> Conecte-se a mim: </h3>
