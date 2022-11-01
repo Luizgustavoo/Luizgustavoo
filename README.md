@@ -1,9 +1,7 @@
 <h1 align = "center"> Olá 👋, sou Luiz Gustavo da Silva </h1>
 <h3 align = "center"> Apenas um jovem entusiasta deste mundo da programação, buscando aprender algo novo todo dia! </h3>
 
-<div>
-<img align="right" alt="Aline-pic" height="200" width="200" src="[[https://lh3.googleusercontent.com/RV4VBBXgBehZ7dq1Wi21bKFSu1LT8P8Gnu18X837gAapq0PKfhu1xzipeGgE9Cvgl-OyOrVzVUEjgC3fKDYVu826STSbbqifVBNXAlnltBn3boaEEZ26SyUuzMSFFo2w9B6dV4I4yftVutEO7OQifTLPU66b2RiFmXBo37_QONtJJb0l7D1Q-z40diBZNu-f5nvXcKrO1P0F5p15Y5aRpXf7Xc39XbrOhAPRnyY0gPD-hHy05cwktzg5rAFASpg81C9hTbf-jXMhyIoXYeadzYmwdlHR8Y2AnucHgadXiUJHvcHjhNj0wrbSEbomxmEh-x6Vv4dwgRWr6dwEiv24JZ-iOigl75b56fjby5Ittx0t3Mj-Rp4gQrXZUGVbF8zlDhbgS42JplBfZtUTQAqLspm06IlCgUXnMYyZtZRYatPaLQRrWH644BZV9WUgIVCKOfLvpWNb_u61t3zLSgqFe2SovsQuoSmPlLjnHtAABaxo8puhPIxz4qv3mjokW8KqAnHLHTmbN8DU2X4BE0yBGKGnsk_TAk6V3DZBaIfNcakE8EU6gc4muqZtP7R3OgTZ1AJ_vw1vEtfMPn4TGSphuy4lFcxG62czHgvBytUC155r5Tk6t3orAOtyx7ntdmPro5YB_T4PrLYZROWIwCaAWiZUVmfk0EaMZUqBNwIDSusX7hYcMay0tjIDUUiYE8Jj-av2FRyXQqoc6BhpcHh590OR_Nt3RZwBcLh-pKvX64rEmW3CBkPHo1S4Vsn91n6lN4_vWlrS6eicSxs-TotmMsP78WsOntx2eaDZw2aYhpP-M0EvYtFzzqmB3tvQAmQXfxIWj84qEB58V1VsSV62HdY-356GY2ReMh_g0WKGb35O8VNDtdHOALPoXtkOhP6Qh8n6_-5JiKGK2zJw17UzindqjDZ7GaFEFxRt0pSATJWLvx4iKA=w509-h490-no?authuser=0](https://lh3.googleusercontent.com/a/ALm5wu1n9yoATVs1oF3wpECp69rThH2qcwuhrLk60TRyrQI=s96-c-rg-br100)](https://lh3.googleusercontent.com/a/ALm5wu1n9yoATVs1oF3wpECp69rThH2qcwuhrLk60TRyrQI=s96-c-rg-br100)"/>
- </div>
+
 
 [![wakatime](https://wakatime.com/badge/user/dd525832-d2cf-4827-bc9e-3beaa92bc0dd.svg)](https://wakatime.com/@dd525832-d2cf-4827-bc9e-3beaa92bc0dd)
 
