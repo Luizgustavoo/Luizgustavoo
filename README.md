@@ -21,8 +21,6 @@
  <a href="https://bit.ly/SistemaDX" target="_blank"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg "alt="java"width="40"height="40"/> </a> </p>
  
  
- ![Snake animation](https://github.com/Luizgustavoo/alineguiseline/blob/output/github-contribution-grid-snake.svg)
- 
 <h3 align="left"> Pague um café: </h3>
 <p> <a href="https://www.buymeacoffee.com/tiilibra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"height="50"width="210"alt="tiilibra"/> </a> </p> <br> <br>
 <br>
