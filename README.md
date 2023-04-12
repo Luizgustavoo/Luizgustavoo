@@ -1,4 +1,4 @@
-<img src="https://agilwebsites.com.br/wp-content/uploads/2023/04/greetings-unscreen.gif" align="center" style="width: 50%" /> 
+<img src="https://agilwebsites.com.br/wp-content/uploads/2023/04/greetings-unscreen.gif" align="center" style="width: 100%" /> 
 
 <br/>
 # 💫 Sobre Mim:
