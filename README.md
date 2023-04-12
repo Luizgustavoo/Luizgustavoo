@@ -15,7 +15,7 @@ Seja bem-vindo ao meu perfil do GitHub! Eu sou o Luiz Gustavo, um jovem apaixona
 
 <br/>  
 
-# 💻 My Skills:
+# 💻 Minhas Habilidades:
 <table><tr><td valign="top" width="33%">
  
  
