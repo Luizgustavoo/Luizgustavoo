@@ -98,10 +98,10 @@ Seja bem-vindo ao meu perfil do GitHub! Eu sou o Luiz Gustavo, um jovem apaixona
   
 
 <br/>  
-
+<div align="center">
 ## 🐦 Último Tweet:
 [![](https://gtce.itsvg.in/api?username=tiilibra)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
+</div>  
 <div align="center">
             <a href="https://www.buymeacoffee.com/tiilibra" target="_blank" style="display: inline-block;">
                 <img
