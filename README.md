@@ -2,7 +2,6 @@
 
 <p align="left"> 
 # 💫 Sobre Mim:
-  
 Seja bem-vindo ao meu perfil do GitHub! Eu sou o Luiz Gustavo, um jovem apaixonado por programação. Aqui no meu perfil do GitHub, você encontrará diversos projetos desenvolvidos com amor e dedicação.<br><br>Sinta-se à vontade para explorar e contribuir com sugestões e feedbacks. Para mim, programar é mais que uma profissão, é um estilo de vida! Obrigado pela visita e espero nos conectarmos em breve!👨‍💻🚀
 </p> 
 
