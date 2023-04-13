@@ -3,6 +3,7 @@
 <p align="left"> 
 # 💫 Sobre Mim:
 Seja bem-vindo ao meu perfil do GitHub! Eu sou o Luiz Gustavo, um jovem apaixonado por programação. Aqui no meu perfil do GitHub, você encontrará diversos projetos desenvolvidos com amor e dedicação.<br><br>Sinta-se à vontade para explorar e contribuir com sugestões e feedbacks. Para mim, programar é mais que uma profissão, é um estilo de vida! Obrigado pela visita e espero nos conectarmos em breve!👨‍💻🚀
+</p> 
 
 - 🔭 Atualmente trabalho na [Casa do Bom Menino de Arapongas](https://casadobommeninodearapongas.org/)  
   
@@ -14,7 +15,7 @@ Seja bem-vindo ao meu perfil do GitHub! Eu sou o Luiz Gustavo, um jovem apaixona
   
 
 - ⚡ Curiosidade: Eu aperto Ctrl+S mil vezes no meu projeto.  
-</p> 
+
 
 <br/>  
 
@@ -102,8 +103,6 @@ Seja bem-vindo ao meu perfil do GitHub! Eu sou o Luiz Gustavo, um jovem apaixona
 
 <br/>  
 
-## 🐦 Último Tweet:
-[![](https://gtce.itsvg.in/api?username=tiilibra)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/tiilibra" target="_blank" style="display: inline-block;">
